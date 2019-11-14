@@ -1,0 +1,2 @@
+# koulurepo
+Koulutehtäviin tarkoitettu repo!
